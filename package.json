@@ -1,0 +1,24 @@
+{
+  "name": "fake-sever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theintezar/fake-sever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theintezar/fake-sever/issues"
+  },
+  "homepage": "https://github.com/theintezar/fake-sever#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "json-server": "^0.17.0"
+  }
+}
